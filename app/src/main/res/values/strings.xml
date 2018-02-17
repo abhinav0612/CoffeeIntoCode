@@ -1,0 +1,16 @@
+<resources>
+    <string name = "app_name">Quantity</string>
+    <string name = "orderName">ORDER</string>
+    <string name = "quantity">QUANTITY</string>
+    <string name = "value">0</string>
+    <string name = "price">PRICE</string>
+    <string name = "money">Calculating...</string>
+    <string name = "plus">+</string>
+    <string name = "minus">-</string>
+    <string name = "coffee">Coffee into</string>
+    <string name = "choose">Choose your pick: </string>
+    <string name = "expresso">Expresso</string>
+    <string name = "cappuchino">Cappuchino</string>
+    <string name = "macchiato">Macchiato</string>
+    <string name = "code">CODE</string>
+</resources>
